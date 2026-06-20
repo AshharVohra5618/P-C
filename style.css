@@ -2,7 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 /* html{
     /* scrollbar-width: none; */
-
+*{
+    padding: 0px;
+    margin: 0px;
+}
 .main-head{
     display: flex;
     flex-direction: column;
@@ -35,7 +38,7 @@
     padding-top: 2%;
 }
 .para1{
-    margin-top: 36px;
+    margin-top: 34px;
 }
 .mid1{
     font-family: Poppins;
@@ -245,12 +248,12 @@
     height: 60px;
 }
 #pass{
-    height: 30px;
+    height: 28px;
     /* width: 300px; */
     width: 100%;
     border-radius: 50px;
     border: none;
-    font-size: 20px;
+    font-size: 19px;
     font-weight: bold;
     /* box-sizing: border-box; */
     padding-right: 50px;
