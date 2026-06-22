@@ -10,6 +10,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    /* height: 100vh; */
 }
 
 .pass{
@@ -154,6 +155,7 @@
     background-color: rgb(70, 68, 68);
     /* box-sizing: border-box; */
     width: 100%;
+    height: 100vh;
 }
 .para4{
     font-size: 14px;
